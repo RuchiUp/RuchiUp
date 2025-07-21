@@ -1,19 +1,4 @@
-## Hi there 👋
 
-<!--
-**RuchiUp/RuchiUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi there, I'm Ruchi Upadhyay
 ## I am a Software and DevOps engineer with M.S in Computer Software Engineering from Northeastern University
 
@@ -21,13 +6,8 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruuchiupadhyay@gmail.com)
 
 ### 🚀 About Me
-My certifications: 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗼𝗿 (𝗖𝗞𝗔)
+My certifications: ![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-
-![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝟬𝟬𝟯
 
 ![Terraform Associate](https://img.shields.io/badge/Terraform_Associate_003-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
