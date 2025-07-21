@@ -21,7 +21,18 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruuchiupadhyay@gmail.com)
 
 ### 🚀 About Me
-My certifications: 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗼𝗿 (𝗖𝗞𝗔), 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝟬𝟬𝟯
+My certifications: 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗞𝘂𝗯𝗲𝗿𝗻𝗲𝘁𝗲𝘀 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗼𝗿 (𝗖𝗞𝗔)
+
+
+![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝟬𝟬𝟯
+
+![Terraform Associate](https://img.shields.io/badge/Terraform_Associate_003-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+
+
 I design and implement enterprise-grade cloud infrastructures that solve complex scalability, performance, and cost challenges. With 3+ years of hands-on experience across the full infrastructure lifecycle, I specialize in building resilient, automated systems that deliver measurable business outcomes.I possess a strong analytical mindset with ability to translate complex technical requirements into scalable solutions. Also, I am experienced in leading infrastructure modernization initiatives and collaborating across engineering teams!
 
 ### 🛠️ Technology Stack
@@ -41,9 +52,6 @@ I design and implement enterprise-grade cloud infrastructures that solve complex
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### 🏆 Featured Projects
 
